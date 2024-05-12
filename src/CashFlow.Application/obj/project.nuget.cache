@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "17amWAa+i5bAGzcBVxWR4leUkeZRra7MFjl6P6xZ24lm84BNcoA0V8yQCFm7Pi5v/W8oCZKBPRW6jKb0G+UzbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\llmartins\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
