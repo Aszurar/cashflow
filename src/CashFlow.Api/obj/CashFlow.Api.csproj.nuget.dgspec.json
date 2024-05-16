@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj": {}
+    "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Api\\CashFlow.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj": {
+    "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Api\\CashFlow.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
+        "projectUniqueName": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
         "projectName": "CashFlow.Api",
-        "projectPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
-        "packagesPath": "C:\\Users\\llmartins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Api\\obj\\",
+        "projectPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Programas\\VisualStudio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\llmartins\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,24 +26,23 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://packagespremiuns": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
-                "projectPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj"
+              "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
+                "projectPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Application\\CashFlow.Application.csproj"
               },
-              "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
-                "projectPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
+              "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
+                "projectPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
               },
-              "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
-                "projectPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
+              "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
+                "projectPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
               },
-              "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj"
+              "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
+                "projectPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj"
               }
             }
           }
@@ -87,24 +86,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
+    "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
+        "projectUniqueName": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
         "projectName": "CashFlow.Application",
-        "projectPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
-        "packagesPath": "C:\\Users\\llmartins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Application\\obj\\",
+        "projectPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Programas\\VisualStudio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\llmartins\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -113,21 +112,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://packagespremiuns": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
-                "projectPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
+              "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
+                "projectPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
               },
-              "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
-                "projectPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj"
+              "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
+                "projectPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj"
               },
-              "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
-                "projectPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
+              "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
+                "projectPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
               }
             }
           }
@@ -168,24 +166,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
+    "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
+        "projectUniqueName": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
         "projectName": "CashFlow.Communication",
-        "projectPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
-        "packagesPath": "C:\\Users\\llmartins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Communication\\obj\\",
+        "projectPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Communication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Programas\\VisualStudio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\llmartins\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -194,8 +192,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://packagespremiuns": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -233,24 +230,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
+    "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
+        "projectUniqueName": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
         "projectName": "CashFlow.Domain",
-        "projectPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
-        "packagesPath": "C:\\Users\\llmartins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Domain\\obj\\",
+        "projectPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Programas\\VisualStudio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\llmartins\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -259,8 +256,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://packagespremiuns": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -298,24 +294,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
+    "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+        "projectUniqueName": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
         "projectName": "CashFlow.Exception",
-        "projectPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
-        "packagesPath": "C:\\Users\\llmartins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Exception\\obj\\",
+        "projectPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Exception\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Programas\\VisualStudio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\llmartins\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -324,8 +320,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://packagespremiuns": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -363,24 +358,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
+    "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
+        "projectUniqueName": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
         "projectName": "CashFlow.Infrastructure",
-        "projectPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\llmartins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Infrastructure\\obj\\",
+        "projectPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "E:\\Programas\\VisualStudio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\llmartins\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -389,15 +384,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://packagespremiuns": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
-                "projectPath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj"
+              "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
+                "projectPath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj"
               }
             }
           }
@@ -432,7 +426,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

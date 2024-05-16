@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VWVRz/yXOMuYhdld61H9outOlhPUoeGouv00zNwuuWlDGZt6va3a5ZBFlcZ9F9+EmsHndyPce9Ylvj4HGKmu+Q==",
+  "dgSpecHash": "rhyrTpRFBzHuW77SIagHAo3gpSjUXg+HL7IyV9Ah2kNjOH1QgAIRcW5ko2Xc7oXOB9yiJUSQoTHN7F9pliCcBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
+  "projectFilePath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T97YqUgVAHNJ8hhnfRvO8izKOADmaNOFan3oA7Qsjn5CUY6Sk7Tdwq+tKNMYSlsKrCI1Bj5rj5cmcVKwaM+GIQ==",
+  "dgSpecHash": "T6FPGvwR5PjMk1GMR92zB8CegNBKcMYFp9J3nUEr5MEitTRWRLABEkoGqBOhvBcN0ju68uQIitjsk0pex1VEjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+  "projectFilePath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

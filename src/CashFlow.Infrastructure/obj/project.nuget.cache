@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wFLt1Ni7F3Rhyrfvy/yP6T3UyssnijxMLkqJhSxsEkXKd8YedESyLF1wdAK53W/OR/lplWeuKFnRbHd2CxWxGg==",
+  "dgSpecHash": "7K88mYdxgf3AYXRZq6ZflWhEmeHBZAp8UYMDVBCl8VHtYJesXrde6a6zhod6TSAAqNqfSof9bOnCewUb4lAVXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\llmartins\\Documents\\Desenvolvimento\\Estudo\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
+  "projectFilePath": "E:\\Desenvolvimento\\backend\\dotnet\\estudo\\cashflow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
